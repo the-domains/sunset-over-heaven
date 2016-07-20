@@ -1,0 +1,28 @@
+name: Sunset Over Heaven
+favicon: null
+layout_spectrum: 0.11993650812655687
+typography_spectrum: 0.5502369017340243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7147659584879875
+  lightness: 0.13349729124456644
+  saturation: 0.9111327975988388
+  rhythmicContrast: 0.48621205147355795
+purpose: []
